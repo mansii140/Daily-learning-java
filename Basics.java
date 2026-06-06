@@ -42,7 +42,7 @@
 
 // input in java
 
-import java.util.*;
+// import java.util.*;
 
 // public class Basics{
 //     public static void main(String args []){
@@ -117,17 +117,17 @@ import java.util.*;
 // }
 
 // operators
-public class Basics{
-    public static void main(String args[]){
-        int a = 20;
-        // int b = ++a;
-        // int b = a++;
-        int b = --a;
-        // int sum = a+b;
-        System.out.println(a);
-        System.out.print(b);
+// public class Basics{
+//     public static void main(String args[]){
+//         int a = 20;
+//         // int b = ++a;
+//         // int b = a++;
+//         int b = --a;
+//         // int sum = a+b;
+//         System.out.println(a);
+//         System.out.print(b);
 
-    }
+//     }
 
-}
+// }
 
